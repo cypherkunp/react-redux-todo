@@ -2426,11 +2426,6 @@ class-utils@^0.3.5:
     isobject "^3.0.0"
     static-extend "^0.1.1"
 
-classnames@^2.2.5:
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.6.tgz#43935bffdd291f326dad0a205309b38d00f650ce"
-  integrity sha512-JR/iSQOSt+LQIWwrwEzJ9uk0xfN3mTVYMwt1Ir5mUcSN6pU+V4zQFFaJsclJbPuAUQH+yfWef6tm7l1quW3C8Q==
-
 clean-css@4.2.x:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/clean-css/-/clean-css-4.2.1.tgz#2d411ef76b8569b6d0c84068dabe85b0aa5e5c17"
@@ -8093,7 +8088,7 @@ react-dev-utils@^9.0.4:
     strip-ansi "5.2.0"
     text-table "0.2.0"
 
-react-dom@^16.8.6, react-dom@^16.9.0:
+react-dom@^16.9.0:
   version "16.9.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.9.0.tgz#5e65527a5e26f22ae3701131bcccaee9fb0d3962"
   integrity sha512-YFT2rxO9hM70ewk9jq0y6sQk8cL02xm4+IzYBz75CQGlClQQ1Bxq0nhHF6OtSbit+AIahujJgb/CPRibFkMNJQ==
@@ -8113,19 +8108,16 @@ react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1, react-is@^16.8.4, react-is
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
   integrity sha512-tJBzzzIgnnRfEm046qRcURvwQnZVXmuCbscxUO5RWrGTXpon2d4c8mI0D8WE6ydVIm29JiLB6+RslkIvym9Rjw==
 
-react-rainbow-components@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/react-rainbow-components/-/react-rainbow-components-1.5.0.tgz#2a2db2b40ae38468596d6b52ddd450f5fae86a9e"
-  integrity sha512-ufrTlId3CPvRsU5t+3dLnxP1LyU9kT6sgKEbCVYG7xDF6f7vH+ILww+VvbpLX9Ky+1VECsgWGvdh7KljczulHw==
+react-rainbow-components@^1.14.1:
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/react-rainbow-components/-/react-rainbow-components-1.14.1.tgz#8f940f224172a52cc240ad6b57c2d50524ac188f"
+  integrity sha512-N2DtTsamvOBNX14a+biMHK0iDTJs2mZPAm5Sd/S7d3R+fcOLOzFeDi9rxtZORk0czyJXITTbtfugiPnbxPgIbw==
   dependencies:
     autosize "^4.0.2"
     chart.js "^2.7.3"
-    classnames "^2.2.5"
     clipboard-copy "^2.0.0"
     prop-types "^15.6.2"
-    react "^16.8.6"
     react-async-script-loader "^0.3.0"
-    react-dom "^16.8.6"
     styled-components "^4.3.2"
     xlsx "^0.14.4"
 
@@ -8202,7 +8194,7 @@ react-scripts@3.1.2:
   optionalDependencies:
     fsevents "2.0.7"
 
-react@^16.8.6, react@^16.9.0:
+react@^16.9.0:
   version "16.9.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.9.0.tgz#40ba2f9af13bc1a38d75dbf2f4359a5185c4f7aa"
   integrity sha512-+7LQnFBwkiw+BobzOF6N//BdoNw0ouwmSJTEm9cglOOmsg/TMiFHZLe2sEoN5M7LgJTj9oHH0gxklfnQe66S1w==
